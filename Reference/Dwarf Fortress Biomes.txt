@@ -1,0 +1,91 @@
+Dwarf Fortress Biomes
+
+All Main - 1
+Any Land - 1
+Any Temperate - 1
+Any Tropical - 1
+Desert - 4
+-Any
+-Badlands
+-Rock
+-Sand
+Forest - 9
+-Any
+-Any Temperate
+-Any Temperate Broadleaf
+-Any Tropical
+-Any Tropical Broadleaf
+Glacier - 1
+Grassland - 3
+-Any
+-Temperate
+-Tropical
+Lake - 9
+-Any
+-Any Temperate
+-Any Tropical
+-Temperate Brackishwater
+-Temperate Freshwater
+-Temperate Saltwater
+-Tropical Brackishwater
+-Tropical Freshwater
+-Tropical Saltwater
+Marsh - 6
+-Any Temperate
+-Any Tropical
+-Temperate Freshwater
+-Temperate Saltwater
+-Tropical Freshwater
+-Tropical Saltwater
+Mountain - 1
+Mountains - 1
+Not Freezing - 1
+Ocean - 4
+-Any
+-Artic
+-Temperate
+-Tropical
+Pool - 7
+-Any
+-Temperate Brackishwater
+-Temperate Freshwater
+-Temperate Saltwater
+-Tropical Brackishwater
+-Tropical Freshwater
+-Tropical Saltwater
+River - 9
+-Any
+-Any Temperate
+-Any Tropical
+-Temperate Brackishwater
+-Temperate Freshwater
+-Temperate Saltwater
+-Tropical Brackishwater
+-Tropical Freshwater
+-Tropical Saltwater
+Savanna - 3
+-Any
+-Temperate
+-Tropical
+Shrubland - 3
+-Any
+-Temperate
+-Tropical
+Subterranean - 3
+-Chasm
+-Lava
+-Water
+Swamp - 7
+-Any Temperate
+-Any Tropical
+-Mangrove
+-Temperate Freshwater
+-Temperate Saltwater
+-Tropical Freshwater
+-Tropical Saltwater
+Taiga -1
+Tundra - 1
+Wetland - 3
+-Any
+-Any Temperate
+-Any Tropical
