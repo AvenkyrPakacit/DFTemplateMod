@@ -1,0 +1,7 @@
+creature_tm_pool
+
+[OBJECT:CREATURE]
+
+Vermin 35/35
+
+.
